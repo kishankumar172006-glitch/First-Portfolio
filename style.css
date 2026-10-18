@@ -3,13 +3,13 @@ color: #e6e6e6;
 font-family:sans-serif;
 margin: 20px;}
 
-header { text-align: center;
+header {text-align: center;
 background-color: #192331;
 padding: 20px;
 border-radius: 10px;}
 
 h1 {color: #4da6ff;
-font-size: 36px;}
+font-size: 40px;}
 
 img {border: 5px solid #4da6ff;
 border-radius: 50%;
@@ -34,9 +34,6 @@ a {color: #4da6ff;}
 
 a:hover {color: #ffffff;}
 
-hr {border: 0;
-border-top: 1px solid #344b65;
-margin: 20px 0;} 
 
 footer {text-align: center;
 background-color: #192331;
