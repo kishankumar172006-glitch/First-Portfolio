@@ -8,25 +8,25 @@ Hi, I'm Kishan Kumar Singh, currently pursuing the BS in Data Science and Applic
 
 Website Sections
 
-- About Me
-- My Interests
-- Education
-- Skills
-- Contact Information
-- Important Links
+-About Me
+-My Interests
+-Education
+-Skills
+-Contact Information
+-Important Links
 
 Technologies Used
 
-- HTML
-- CSS
+-HTML
+-CSS
 
 What I Learned
 
-- Basic HTML document structure
-- Headings and paragraphs
-- Images and hyperlinks
-- Semantic HTML elements
-- Organising content into sections
+-Basic HTML document structure
+-Headings and paragraphs
+-Images and hyperlinks
+-Semantic HTML elements
+-Organising content into sections
 
 Author
 
