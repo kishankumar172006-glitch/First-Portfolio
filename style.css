@@ -2,11 +2,19 @@ body {background-color: #121820;
 color:white;
 font-family:sans-serif;
 margin: 20px;
+align-items: center;
+border-style: inset;
+border-color: #4da6ff;
+max-width: 800px;
+margin-left: 350px;}
 
 header {text-align: center;
 background-color: #192331;
 padding: 20px;
 border-radius: 10px;}
+
+main {margin: 20px;
+padding: 20px;}
 
 h1 {color: #4da6ff;
 font-size: 40px;}
